@@ -11,7 +11,7 @@
 
     <div class="header-content">
       <div class="interior">
-        <h1 id="headline">Metallica is probably my favorite band.</h1>
+        <h1 id="headline"></h1>
       </div>
     </div><!-- /header-content -->
   </header> <!-- /header -->
@@ -143,7 +143,7 @@
       },
       newQuote() {
         const quotes = [
-          'Placeholder text for a much better headline later'
+          'Placeholder text for a much better headline later',
         ];
         let quoteValue = quotes;
         let randomQuoteValue = quoteValue[Math.floor(Math.random() * quoteValue.length)];

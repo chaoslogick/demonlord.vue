@@ -139,17 +139,14 @@
   }],
   "skills": [{
     "stack": [
-      "HTML5, SASS",
-      "ES5/6++, Vue, React",
-      "ZSH, yarn, git CLI"
+      "HTML, CSS/SASS",
+      "Javascript, Vue",
+      "git CLI, BASH/ZSH"
     ],
     "software": [
       "VS Code, neovim",
-      "Adobe CC Suite",
-      "Sketch, Figma",
-      "Paw, DataGrip, Evernote",
-      "Firefox Dev, Canary",
-      "MacOS 11, Win 10, Manjaro"
+      "Photoshop, Illustrator",
+      "XD, Sketch"
     ],
     "additional": [
       "REST APIs",
