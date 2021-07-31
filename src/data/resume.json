@@ -39,18 +39,8 @@
     "website": "http://shift7digital.com",
     "startDate": "2021",
     "endDate": "Current",
-    "summary": "",
-    "tags": ["front-end development", "11ty", "sass", "html5", "SFMC SSJS", "AMPscript"]
-  },
-  {
-    "company": "Shift7 Digital",
-    "position": "Senior Front-End Developer",
-    "city": "Chicago, IL",
-    "website": "http://shift7digital.com",
-    "startDate": "2021",
-    "endDate": "Current",
     "summary": "Building vanilla JS components, Salesforce Marketing Cloud landing pages and emails, Adobe Analytics tracking in vanilla JS",
-    "tags": ["front-end development", "vanilla js", "sass", "html5", "11ty", "sfmc ssjs", "ampscript"]
+    "tags": ["front-end development", "11ty", "vanilla js", "sass", "html5", "SFMC SSJS", "AMPscript"]
   },
   {
     "company": "Mess",
