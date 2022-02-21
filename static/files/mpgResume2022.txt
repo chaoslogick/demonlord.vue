@@ -1,0 +1,129 @@
+:=============================================================================:
+..axs$a.`$$$a. $$$$&a. .a$$$a.
+    $$$ $$$ $$$ $$$ $$$ $$$ $$$       Michael Perry Goodman
+    $$$ $$$ $$$ $$$ $$$ $$$  `$       michaelperrygoodman@gmail.com
+    $$$ $$$ $$$ $$$ $$$ $$$           Chicago, IL, US
+    $$$ $$$ $$$ $$$s$$' $$$`$$$"'
+    $$$ $$$ $$$ $$$     $$$ $$$       https://demonlord.org
+    $$$ $$$ $$$ $$$     $$$ $$$
+    $$$ $$$ $$$ $$$     '$$a$$s..
+    "' "$" -- m p g : 2 0 2 2 --
+          `
+:=============================================================================:
+
+
+-- About ----------------------------------------------------------------------
+Started my career as both designer and developer, self-taught in both skills,
+and have a very good understanding of how both of these roles work
+independently as well as some opinions on how they ought to work together.
+
+
+-- Experience -----------------------------------------------------------------
+Independent :: 07/2002 -- Current
+Web Design & Development Consulting
+
+For two decades I've worked with web design and development agencies in
+a variety of industries, with brands such as Kraft, IBM, Wilson, Abbott,
+and many others.
+
+My primary focus in most of these roles has been tasks like page templating,
+converting design comps into live pages with [insert web tech here], and
+application UI, however i've become a swiss army knife of sorts, with skills
+ranging from logo design to site wire frames to HTML email development to
+single page apps.
+
+---
+Shift7 Digital :: 06/2021  -- Current
+Senior Front-End Developer
+
+Build Salesforce Marketing Cloud landing pages and emails, build vanilla
+JS components, implement Adobe Analytics into multiple sites, build Salesforce
+Lightning Web Components
+
+Tech: HTML, Vanilla CSS, Vanilla JS, SF Lightning Web Components, SF Orgs,
+      SFMC AMPscript/SSJS, 11ty, Adobe Analytics, Git
+
+---
+Mess :: 02/2020 -- 06/2021
+Full-Stack Developer
+
+Wordpress based APIs and Vue front-ends using docker/K8s deployment to
+Google Cloud, one new section to a Django/Wagtail application, and one
+Hugo blog using Forestry CMS. Google Analytics implementations.
+
+Tech: Vue, Wordpress, Django, HTML, SASS, MySQL, Docker, Google Analytics, Git
+
+---
+Creative Circle :: 10/2010 -- 03/2019
+Contract Designer & Developer
+
+Periodic design and front-end contract work. Creative Circle was
+extremely reliable for me and I can't thank them enough.
+
+---
+Breakout.Studio :: 06/2016 -- 03/2019
+Full-Stack Developer
+
+Marketing website development with the Zurb Foundation framework and
+jQuery backed by Craft CMS, Handlebars templates, MySQL, and Nginx
+web servers with Laravel Forge CI. HTML email campaign templates and
+compatibility testing with Litmus.
+
+Tech: Foundation, Node, Craft CMS, Wordpress, HTML, SASS, MySQL, Nginx, Git
+
+---
+Healthbox :: 05/2015 -- 06/2016
+Front-End Developer
+
+Creating React JSX templates for a Rails-based REST API deployed to Heroku.
+Website redesign front-end work in React and providing team support.
+
+Tech: React, Rails, HTML, SASS, Git
+
+---
+BigTime Software :: 02/2014 -- 05/2015
+Front-End Developer
+
+Development and maintenance of the BigTime IQ application including development
+of new front-end feature functionality, User Experience planning, UI develoment
+via CSS, code refactoring. Additionally, development of corporate website
+Wordpress theme UI.
+
+Tech: Angular 1, ASP.NET MVC, Wordpress, HTML, SCSS, Subversion
+
+---
+VSA Partners :: 09/2012 -- 02/2014
+Front-End Developer
+
+Website development with HTML/CSS/JS, HTML email mark-up, microsites, responsive
+design development, legacy browser compliant mark-up, CSS3 animations. I built
+koolaid.com
+
+Tech: Vanilla JS, jQuery, HTML, CSS, Git
+
+---
+AbelsonTaylor :: 08/2011 -- 09/2012
+Interactive Developer
+
+Front-end website development, HTML email markup, HTML5 iPad slides,
+CSS3 animations.
+
+Tech: ASP.NET MVC, Vanilla JS, jQuery, HTML, CSS, Subversion
+
+
+-- Languages & Tech -----------------------------------------------------------
+HTML5, CSS3, JS (ES5/6+), Some PHP, Some Ruby
+Vue, React, jQuery
+
+Node, .NET, Rails, Wordpress, CraftCMS
+LESS/SASS, Bootstrap, Foundation
+
+BASH, ZSH, Git CLI, Yarn, NPM
+VSCode, NeoVim
+Adobe CC Suite, Sketch, Figma
+
+
+-- Additional Skills ----------------------------------------------------------
+REST APIs, Craft CMS Templates, Wordpress Templates
+UX Wire Framing, User Interface Design
+Branding & Identity, Logo Design

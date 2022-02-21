@@ -2,7 +2,7 @@
   "basics": {
     "name": "Michael Perry Goodman",
     "email": "michaelperrygoodman@gmail.com",
-    "website": "http://michaelperrygoodman.com",
+    "website": "https://michaelperrygoodman.com",
     "about": "Started my career as both designer and developer, self-taught in both skills, and have a very good understanding of how both of these roles work independently as well as some opinions on how they ought to work together.",
     "location": {
       "city": "Chicago",
@@ -29,7 +29,7 @@
     "website": "http://michaelperrygoodman.com",
     "startDate": "2002",
     "endDate": "Current",
-    "summary": "For almost two decades I've worked with web design and development agencies in a variety of industries, with brands such as Kraft, IBM, Wilson, Abbott, and many others.<br /><br />My primary focus in most of these roles has been tasks like page templating, converting design comps into live pages with [insert web tech here], and application UI, however i've become a swiss army knife of sorts, with skills ranging from logo design to site wire frames to HTML email development to single page apps.",
+    "summary": "For two decades I've worked with web design and development agencies in a variety of industries, with brands such as Kraft, IBM, Wilson, Abbott, and many others.<br /><br />My primary focus in most of these roles has been tasks like page templating, converting design comps into live pages with [insert web tech here], and application UI, however i've become a swiss army knife of sorts, with skills ranging from logo design to site wire frames to HTML email development to single page apps.",
     "tags": ["full-stack development", "ui/ux", "graphic design", "email development", "branding", "development consulting"]
   },
   {
@@ -39,8 +39,8 @@
     "website": "http://shift7digital.com",
     "startDate": "2021",
     "endDate": "Current",
-    "summary": "Building vanilla JS components, Salesforce Marketing Cloud landing pages and emails, Adobe Analytics tracking in vanilla JS",
-    "tags": ["front-end development", "11ty", "vanilla js", "sass", "html5", "SFMC SSJS", "AMPscript"]
+    "summary": "",
+    "tags": ["front-end development", "11ty", "sass", "html5", "SFMC SSJS", "AMPscript"]
   },
   {
     "company": "Mess",
@@ -79,7 +79,7 @@
     "website": "http://bigtime.net",
     "startDate": "2014",
     "endDate": "2015",
-    "summary": "Development and maintenance of the BigTime IQ application including development of new front-end feature functionality, User Experience planning, UI develoment via CSS, code refactoring. Additionally, development of corporate Wordpress theme UI.",
+    "summary": "Development and maintenance of the BigTime IQ application including development of new front-end feature functionality, User Experience planning, UI develoment via CSS, code refactoring. Additionally, development of corporate website Wordpress theme UI.",
     "tags": ["front-end development", "angular.js", "ASP.NET", "wordpress", "umbraco", "bootstrap", "css3", "html5", "subversion"]
   },
   {
