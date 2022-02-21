@@ -4,6 +4,7 @@ import Router from 'vue-router';
 // Page Components
 import MainView from '@/components/MainView';
 import PageResume from '@/components/PageResume';
+import PageMusic from '@/components/PageMusic';
 import PageWarez from '@/components/PageWarez';
 import PageEtc from '@/components/PageEtc';
 import PageNotFound from '@/components/PageNotFound';
@@ -25,6 +26,11 @@ export default new Router({
       path: '/resume',
       name: 'page-resume',
       component: PageResume,
+    },
+    {
+      path: '/music',
+      name: 'page-music',
+      component: PageMusic,
     },
     {
       path: '/warez',
