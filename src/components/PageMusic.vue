@@ -110,6 +110,7 @@
           <li>DiscoDSP Discovery Pro</li>
           <li>Novation V-Station</li>
           <li>&nbsp;</li>
+          <li>iZotope Ozone</li>
           <li>FabFilter Suite</li>
           <li>Eventide Suite</li>
           <li>ValhallaDSP Plugins</li>
