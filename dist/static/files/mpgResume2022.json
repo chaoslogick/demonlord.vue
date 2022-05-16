@@ -196,7 +196,6 @@
         "ASP.NET",
         "css3",
         "html5",
-        "grunt",
         "subversion"
       ]
     },
@@ -226,7 +225,17 @@
       "startDate": "2007",
       "endDate": "2008",
       "summary": "Flash website development, web site mock-ups, banner ads. UI development of proprietary CMS environment.",
-      "tags": ["flash development", "php", "jquery", "UI design", "css", "html"]
+      "tags": [
+        "flash development",
+        "actionscript",
+        "php",
+        "jquery",
+        "moo tools",
+        "UI design",
+        "adobe photoshop",
+        "css",
+        "html"
+      ]
     }
   ],
   "volunteer": [
@@ -238,13 +247,25 @@
   ],
   "skills": [
     {
-      "stack": ["HTML, CSS/SASS", "Javascript, Vue", "git CLI, BASH/ZSH"],
-      "software": ["VS Code, neovim", "Photoshop, Illustrator", "XD, Sketch"],
+      "stack": [
+        "HTML5, CSS3/SASS",
+        "ES5/6+, Vue.js",
+        "Ruby on Rails, SpinaCMS",
+        "PostgreSQL, MySQL",
+        "git CLI, zsh/bash",
+        "Docker, Buddy CI"
+      ],
+      "software": [
+        "VS Code, neovim/VimR",
+        "Photoshop, Illustrator",
+        "XD, Sketch, Figma"
+      ],
       "additional": [
         "REST APIs",
         "CMS Templates",
         "UX Wireframing",
         "Interface Design",
+        "JS Animations",
         "Branding & Identity"
       ]
     }
