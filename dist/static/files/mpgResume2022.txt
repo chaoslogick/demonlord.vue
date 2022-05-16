@@ -23,8 +23,8 @@ Independent :: 07/2002 -- Current
 Web Design & Development Consulting
 
 For two decades I've worked with web design and development agencies in
-a variety of industries, with brands such as Kraft, IBM, Wilson, Abbott,
-and many others.
+a variety of industries, with brands such as Roll20, SANS, Kraft, IBM, Wilson,
+Abbott, and many others.
 
 My primary focus in most of these roles has been tasks like page templating,
 converting design comps into live pages with [insert web tech here], and
@@ -112,7 +112,7 @@ Tech: ASP.NET MVC, Vanilla JS, jQuery, HTML, CSS, Subversion
 
 
 -- Languages & Tech -----------------------------------------------------------
-HTML5, CSS3, JS (ES5/6+), Some PHP, Some Ruby
+HTML5, CSS3, JS (ES5/6+), Some Ruby, Some PHP
 Vue, React, jQuery
 
 Node, .NET, Rails, Wordpress, CraftCMS
