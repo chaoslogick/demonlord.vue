@@ -44,8 +44,8 @@ export default new Router({
     },
     {
       path: '*',
-      name: 'page-notfound',
-      redirect: PageNotFound
+      name: 'page-not-found',
+      component: PageNotFound
     },
   ],
 });
