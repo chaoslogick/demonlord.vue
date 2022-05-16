@@ -251,16 +251,18 @@
         "HTML5, CSS3/SASS",
         "ES5/6+, Vue.js",
         "Ruby on Rails, SpinaCMS",
+        "VuePress, Forestry.io",
         "PostgreSQL, MySQL",
-        "git CLI, zsh/bash",
         "Docker, Buddy CI"
       ],
       "software": [
         "VS Code, neovim/VimR",
+        "zsh/bash, tmux, git CLI",
         "Photoshop, Illustrator",
         "XD, Sketch, Figma"
       ],
       "additional": [
+        "MVC/MVVM Frameworks",
         "REST APIs",
         "CMS Templates",
         "UX Wireframing",
