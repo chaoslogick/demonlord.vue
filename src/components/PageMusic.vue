@@ -4,7 +4,7 @@
       <div class="sub-section">
         <span class="eyebrow">Music</span>
         <p>I have been creating computer-based electronic music for over 20 years now, starting with a pirated copy of FruityLoops 3 in 2001.
-        Since then, I have largely focused on ambient music and experimental music. Below are some things I have released.</p>
+        Since then, I have largely focused on ambient music and experimental music, often involving guitar. Below are some things I have released.</p>
 
         <h3>Implex Grace</h3>
         <span class="info">Shadows & Wraiths, 2020</span>
