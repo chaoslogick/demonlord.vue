@@ -49,11 +49,12 @@
 <div class="sidebar">
         <span class="eyebrow">Hardware & Synths</span>
         <ul>
-          <li>Yamaha MT4X 4-Track</li>
           <li>Antelope Audio ZenTour</li>
           <li>Genelec 8010A + Sub</li>
           <li>Beyerdynamic DT990 Pro</li>
           <li>Grado SR80e</li>
+          <li>Soundcraft EFX12</li>
+          <li>Yamaha MT4X 4-Track</li>
           <li>&nbsp;</li>
           <li>Sequentix Cirklon</li>
           <li>Kurzweil K2VX</li>
@@ -71,7 +72,26 @@
 
         <span class="eyebrow">Eurorack Modular</span>
         <ul>
-          <li>Later...</li>
+          <li><a href="https://www.modulargrid.net/e/racks/view/579324" target="_blank">Modular Grid Rack</a></li>
+          <li>Doepfer A-100 6U case</li>
+          <li>Hexinverter Mutant Brain</li>
+          <li>ALM Pamela's New Workout</li>
+          <li>Topobrillo Stereomix</li>
+          <li>Intellijel Quadra</li>
+          <li>Intellijel Triatt x2</li>
+          <li>Intellijel Polaris</li>
+          <li>Mutable Instruments Peaks</li>
+          <li>Mutable Instruments Streams</li>
+          <li>Sylph Modular uO_c</li>
+          <li>Make Noise/Soundhack Morphagene</li>
+          <li>Eowave Domino</li>
+          <li>Acid Rain Chainsaw</li>
+          <li>WMD C4RBN</li>
+          <li>Endorphin.es Milky Way</li>
+          <li>Tiptop Audio ZVERB</li>
+          <li>Erica Pico DSP</li>
+          <li>Erica Pico RND</li>
+          <li>2hp Mult x4</li>
         </ul>
 
         <span class="eyebrow">Guitar Rig</span>
@@ -124,6 +144,7 @@
           <li>FabFilter Suite</li>
           <li>Eventide Suite</li>
           <li>ValhallaDSP Plugins</li>
+          <li>Soundhack Spectral Plugins</li>
           <li>Michael Norris Plugins</li>
           <li>GRM Tools</li>
           <li>A few secret weapons...</li>
