@@ -9,33 +9,40 @@
         <h3>Implex Grace</h3>
         <span class="info">Shadows & Wraiths, 2020</span>
         <iframe style="border: 0; width: 640px; height: 220px; margin-bottom: 24px;"
-                src="https://bandcamp.com/EmbeddedPlayer/album=3523579026/size=large/bgcol=030303/linkcol=00ff99/artwork=small/transparent=true/" seamless>
+                src="https://bandcamp.com/EmbeddedPlayer/album=3523579026/size=large/bgcol=000/linkcol=00ff99/artwork=small/transparent=false/" seamless>
           <a href="https://implexgrace.bandcamp.com/album/shadows-wraiths">Shadows &amp; Wraiths by Implex Grace</a>
         </iframe>
 
         <span class="info">The Black Tapes, 2008</span>
         <iframe style="border: 0; width: 640px; height: 310px; margin-bottom: 24px;"
-                src="https://bandcamp.com/EmbeddedPlayer/album=1805190515/size=large/bgcol=030303/linkcol=00ff99/artwork=small/transparent=true/" seamless>
+                src="https://bandcamp.com/EmbeddedPlayer/album=1805190515/size=large/bgcol=000/linkcol=00ff99/artwork=small/transparent=false/" seamless>
           <a href="https://implexgrace.bandcamp.com/album/the-black-tapes">The Black Tapes by Implex Grace</a>
         </iframe>
 
         <span class="info">Something In The Way (Versions), 2007</span>
         <iframe style="border: 0; width: 640px; height: 210px; margin-bottom: 24px;"
-                src="https://bandcamp.com/EmbeddedPlayer/album=2071403386/size=large/bgcol=030303/linkcol=00ff99/artwork=small/transparent=true/" seamless>
+                src="https://bandcamp.com/EmbeddedPlayer/album=2071403386/size=large/bgcol=000/linkcol=00ff99/artwork=small/transparent=false/" seamless>
           <a href="https://implexgrace.bandcamp.com/album/something-in-the-way-versions">Something In The Way (Versions) by Implex Grace</a>
         </iframe>
 
         <span class="info">Mira Loma, 2005</span>
         <iframe style="border: 0; width: 640px; height: 250px; margin-bottom: 24px;"
-                src="https://bandcamp.com/EmbeddedPlayer/album=3098530785/size=large/bgcol=030303/linkcol=00ff99/artwork=small/transparent=true/" seamless>
+                src="https://bandcamp.com/EmbeddedPlayer/album=3098530785/size=large/bgcol=000/linkcol=00ff99/artwork=small/transparent=false/" seamless>
           <a href="https://implexgrace.bandcamp.com/album/mira-loma">Mira Loma by Implex Grace</a>
         </iframe>
 
         <h3>Void En Vogue</h3>
         <span class="info">Varia EP, 2019</span>
-        <iframe style="border: 0; width: 640px; height: 307px;"
-                src="https://bandcamp.com/EmbeddedPlayer/album=1266802891/size=large/bgcol=030303/linkcol=00ff99/artwork=small/transparent=true/" seamless>
+        <iframe style="border: 0; width: 640px; height: 307px; margin-bottom: 24px;"
+                src="https://bandcamp.com/EmbeddedPlayer/album=1266802891/size=large/bgcol=000/linkcol=00ff99/artwork=small/transparent=false/" seamless>
           <a href="https://voidenvogue.bandcamp.com/album/varia-ep">Varia EP by Void En Vogue</a>
+        </iframe>
+
+        <h3>Strategy Guide</h3>
+        <span class="info">Antegenesis EP, 2006</span>
+        <iframe style="border: 0; width: 640px; height: 340px;"
+                src="https://bandcamp.com/EmbeddedPlayer/album=206131110/size=large/bgcol=000/linkcol=00ff99/artwork=small/transparent=false/" seamless>
+          <a href="https://strategyguide.bandcamp.com/album/antegenesis-ep">Antegenesis EP by Strategy Guide</a>
         </iframe>
       </div>
 
@@ -48,6 +55,7 @@
           <li>Beyerdynamic DT990 Pro</li>
           <li>Grado SR80e</li>
           <li>&nbsp;</li>
+          <li>Sequentix Cirklon</li>
           <li>Kurzweil K2VX</li>
           <li>Access Virus C</li>
           <li>Nord Lead Rack 1</li>
@@ -66,7 +74,7 @@
           <li>Later...</li>
         </ul>
 
-        <span class="eyebrow">Guitar Gear</span>
+        <span class="eyebrow">Guitar Rig</span>
         <ul>
           <li>Kemper Profiler Rack</li>
           <li>Marshall JCM900 4100</li>
@@ -81,14 +89,16 @@
           <li>Kaman/Ovation GTX 38</li>
           <li>&nbsp;</li>
           <li>ProCo RAT</li>
-          <li>Dwarfcraft Necromancer</li>
           <li>Maxon OD-808</li>
+          <li>Dwarfcraft Necromancer</li>
           <li>MXR/CAE MC402 Boost</li>
           <li>MXR DynaComp</li>
           <li>Boss DS-1</li>
           <li>Boss DS-2</li>
           <li>Boss HM-3</li>
           <li>Line 6 DL4</li>
+          <li>Digitech Reverb</li>
+          <li>Yamaha REX 50</li>
         </ul>
 
         <span class="eyebrow">DAWs, SoftSynths, Plugins</span>
