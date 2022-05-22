@@ -242,8 +242,7 @@ footer .quote {
   text-transform: uppercase;
 }
 .page-music .info { font-size: 0.86rem; color: #aaa; }
-.page-music h2,
-.page-music h3 { margin-bottom: 0; }
+.page-music h2 { margin-bottom: 0; }
 
 /* mobile ---------- */
 @media (min-width: 640px) {
