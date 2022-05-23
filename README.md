@@ -1,14 +1,24 @@
-# demonlord-vue
+# demonlord.vue
 
-## Build Setup
+## Project setup
+```
+yarn install
+```
 
-```zsh
-# install dependencies
-yarn
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-# serve with hot reload at localhost:9999
-yarn up
-
-# build for production with minification
+### Compiles and minifies for production
+```
 yarn build
 ```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
