@@ -1,51 +1,51 @@
-import Vue from 'vue';
-import Router from 'vue-router';
+import { createWebHistory, createRouter } from 'vue-router';
+import MainView from '@/views/MainView.vue';
+import PageResume from '@/views/PageResume';
+import PageMusic from '@/views/PageMusic';
+import PageWarez from '@/views/PageWarez';
+import PageEtc from '@/views/PageEtc';
+import PageNotFound from '@/views/PageNotFound';
 
-// Page Components
-import MainView from '@/components/MainView';
-import PageResume from '@/components/PageResume';
-import PageMusic from '@/components/PageMusic';
-import PageWarez from '@/components/PageWarez';
-import PageEtc from '@/components/PageEtc';
-import PageNotFound from '@/components/PageNotFound';
+const routes = [
+  {
+    path: '/',
+    name: 'page-main',
+    component: MainView,
+  },
+  {
+    path: '/resume',
+    name: 'page-resume',
+    component: PageResume,
+  },
+  {
+    path: '/music',
+    name: 'page-music',
+    component: PageMusic,
+  },
+  {
+    path: '/warez',
+    name: 'page-warez',
+    component: PageWarez,
+  },
+  {
+    path: '/etc',
+    name: 'page-etc',
+    component: PageEtc,
+  },
+  {
+    path: '/:catchAll(.*)',
+    name: 'page-not-found',
+    component: PageNotFound
+  },
+]
 
-Vue.use(Router);
-
-export default new Router({
+const router = createRouter({
   hashbang: false,
-  mode: 'history',
+  history: createWebHistory(),
   linkActiveClass: 'active',
   root: '/',
-  routes: [
-    {
-      path: '/',
-      name: 'page-main',
-      component: MainView,
-    },
-    {
-      path: '/resume',
-      name: 'page-resume',
-      component: PageResume,
-    },
-    {
-      path: '/music',
-      name: 'page-music',
-      component: PageMusic,
-    },
-    {
-      path: '/warez',
-      name: 'page-warez',
-      component: PageWarez,
-    },
-    {
-      path: '/etc',
-      name: 'page-etc',
-      component: PageEtc,
-    },
-    {
-      path: '*',
-      name: 'page-not-found',
-      component: PageNotFound
-    },
-  ],
-});
+  base: process.env.BASE_URL,
+  routes
+})
+
+export default router;
