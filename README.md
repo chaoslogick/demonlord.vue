@@ -1,14 +1,19 @@
-# demonlord-vue
+# demonlord.vue
 
-## Build Setup
+## Project setup
 
-```zsh
-# install dependencies
-yarn
+```
+yarn install
+```
 
-# serve with hot reload at localhost:8080
+### Compiles and hot-reloads for development
+
+```
 yarn up
+```
 
-# build for production with minification
+### Compiles and minifies for production
+
+```
 yarn build
 ```

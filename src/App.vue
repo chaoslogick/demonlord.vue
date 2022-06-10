@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import GlobalHeader from './components/GlobalHeader';
-import GlobalFooter from './components/GlobalFooter';
+import GlobalHeader from '@/components/GlobalHeader';
+import GlobalFooter from '@/components/GlobalFooter';
 
 export default {
   name: 'App',
@@ -23,9 +23,6 @@ export default {
       const url = document.URL;
       const urlParts = url.replace('http://','').replace('https://','').split(/[/?#]/);
       return urlParts[0];
-    },
-    currentYear() {
-      return new Date().getFullYear();
     },
     componentName() {
       return this.$route.name;
@@ -43,8 +40,8 @@ export default {
    $$$ $$$ $$$ $$$     $$$ $$$
    $$$ $$$ $$$ $$$     '$$a$$s..
      "' "$" ---------------------
-         '' ---- website by mpg -
-            ---- demonlord.org --
+         '' - website by mpg ----
+            - demonlord.org -----
       `);
       console.log('// Initializing...');
     },
@@ -59,15 +56,25 @@ export default {
       const randomColorValue = colorValue[Math.floor(Math.random() * colorValue.length)];
       document.body.style.borderColor = randomColorValue;
     },
+    pageTitle() {
+      const currYear = new Date().getFullYear();
+      document.title = `michael perry goodman // ${currYear}`;
+    }
   },
   mounted() {
     this.banner();
 
     const hexChanger = () => {
       this.randomColor();
-      this.randomBorderColor();
     };
     setInterval(hexChanger, 2000);
+
+    this.pageTitle();
   },
 };
 </script>
+
+<style lang="scss">
+  // SCSS entry point
+  @import "assets/scss/app.scss";
+</style>
