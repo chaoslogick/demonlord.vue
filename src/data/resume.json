@@ -250,14 +250,20 @@
       "stack": [
         "HTML5, CSS3/SASS",
         "ES5/6+, Vue.js",
-        "Ruby on Rails, SpinaCMS",
-        "VuePress, Forestry.io",
+        "React", "jQuery (🙃)",
+        "some Ruby", "some PHP",
         "PostgreSQL, MySQL",
+        "Ruby on Rails, SpinaCMS",
+        "Node/Express", ".NET MVC",
+        "VuePress, Forestry.io",
+        "Wordpress", "CraftCMS",
+        "Foundation", "Bootstrap",
         "Docker, Buddy CI"
       ],
       "software": [
         "VS Code, neovim/VimR",
         "zsh/bash, tmux, git CLI",
+        "yarn, npm, webpack, grunt",
         "Photoshop, Illustrator",
         "XD, Sketch, Figma"
       ],

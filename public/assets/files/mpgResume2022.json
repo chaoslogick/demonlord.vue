@@ -32,7 +32,7 @@
       "website": "http://michaelperrygoodman.com",
       "startDate": "2002",
       "endDate": "Current",
-      "summary": "For two decades I've worked with web design and development agencies in a variety of industries, with brands such as Roll20, SANS, Kraft, IBM, Wilson, Abbott, and many others.<br /><br />My primary focus in most of these roles has been tasks like page templating, converting design comps into live pages with [insert web tech here], and application UI, however i've become a swiss army knife of sorts, with skills ranging from logo design to site wire frames to HTML email development to single page apps.",
+      "summary": "For two decades I've worked with web design and development agencies in a variety of industries, with brands such as Roll20, SANS, Kraft, IBM, Wilson, Abbott, and many others.<br /><br />My primary focus in most of these roles has been tasks like page templating, converting design comps into live pages, and application UI. However, I've become a swiss army knife of sorts, with skills ranging from logo design to site wire frames to HTML email development to single page apps.",
       "tags": [
         "full-stack development",
         "ui/ux",
@@ -196,7 +196,6 @@
         "ASP.NET",
         "css3",
         "html5",
-        "grunt",
         "subversion"
       ]
     },
@@ -226,7 +225,17 @@
       "startDate": "2007",
       "endDate": "2008",
       "summary": "Flash website development, web site mock-ups, banner ads. UI development of proprietary CMS environment.",
-      "tags": ["flash development", "php", "jquery", "UI design", "css", "html"]
+      "tags": [
+        "flash development",
+        "actionscript",
+        "php",
+        "jquery",
+        "moo tools",
+        "UI design",
+        "adobe photoshop",
+        "css",
+        "html"
+      ]
     }
   ],
   "volunteer": [
@@ -238,13 +247,33 @@
   ],
   "skills": [
     {
-      "stack": ["HTML, CSS/SASS", "Javascript, Vue", "git CLI, BASH/ZSH"],
-      "software": ["VS Code, neovim", "Photoshop, Illustrator", "XD, Sketch"],
+      "stack": [
+        "HTML5, CSS3/SASS",
+        "ES5/6+, Vue.js",
+        "React", "jQuery (🙃)",
+        "some Ruby", "some PHP",
+        "PostgreSQL, MySQL",
+        "Ruby on Rails, SpinaCMS",
+        "Node/Express", ".NET MVC",
+        "VuePress, Forestry.io",
+        "Wordpress", "CraftCMS",
+        "Foundation", "Bootstrap",
+        "Docker, Buddy CI"
+      ],
+      "software": [
+        "VS Code, neovim/VimR",
+        "zsh/bash, tmux, git CLI",
+        "yarn, npm, webpack, grunt",
+        "Photoshop, Illustrator",
+        "XD, Sketch, Figma"
+      ],
       "additional": [
+        "MVC/MVVM Frameworks",
         "REST APIs",
         "CMS Templates",
         "UX Wireframing",
         "Interface Design",
+        "JS Animations",
         "Branding & Identity"
       ]
     }
