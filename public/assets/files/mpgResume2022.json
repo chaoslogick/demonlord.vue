@@ -248,16 +248,15 @@
   "skills": [
     {
       "stack": [
-        "HTML5, CSS3/SASS",
-        "ES5/6+, Vue.js",
-        "React, jQuery (🙃)",
+        "HTML5, CSS3/SASS, ES5/6+",
+        "Vue, React, jQuery(🙃)",
         "some Ruby, some PHP",
         "PostgreSQL, MySQL",
         "Ruby on Rails, SpinaCMS",
-        "Node/Express", ".NET MVC",
+        "Node/Express, .NET MVC",
         "VuePress, Forestry.io",
-        "Wordpress", "CraftCMS",
-        "Foundation", "Bootstrap",
+        "Wordpress, CraftCMS",
+        "Foundation, Bootstrap",
         "Docker, Buddy CI"
       ],
       "software": [
