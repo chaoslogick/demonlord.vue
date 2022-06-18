@@ -1,9 +1,9 @@
 {
   "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#000",
-    "titleBar.inactiveForeground": "#000000cc",
-    "titleBar.activeBackground": "#00FF77",
-    "titleBar.inactiveBackground": "#00FF77CC"
+    // "titleBar.activeForeground": "#000",
+    // "titleBar.inactiveForeground": "#000000cc",
+    // "titleBar.activeBackground": "#00FF77",
+    // "titleBar.inactiveBackground": "#00FF77CC"
   },
   "editor.formatOnSave": true,
   "eslint.alwaysShowStatus": true,
