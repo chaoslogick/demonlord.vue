@@ -2,7 +2,7 @@
   "name": "demonlord.vue",
   "version": "1.0.0",
   "description": "Personal Vue website",
-  "author": "Michael Perry Goodman <michaelperrygoodman@gmail.com>",
+  "author": "Michael Perry Goodman <mpg@demonlord.org>",
   "private": true,
   "scripts": {
     "up": "vue-cli-service serve",
