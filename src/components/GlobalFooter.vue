@@ -19,9 +19,9 @@
       return {
         quotes: quotes,
         social: [
-          { network: 'linkedin', url: '//linkedin.com/in/michaelperrygoodman' },
-          { network: 'github', url: '//github.com/michaelperrygoodman' },
+          { network: 'github', url: '//github.com/hyperchaos' },
           { network: 'codepen', url: '//codepen.io/michaelperrygoodman' },
+          { network: 'linkedin', url: '//linkedin.com/in/michaelperrygoodman' },
           { network: 'email', url: 'mailto:mpg@demonlord.org' },
         ]
       }
