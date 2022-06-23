@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Michael Perry Goodman",
-    "email": "michaelperrygoodman@gmail.com",
-    "website": "https://michaelperrygoodman.com",
+    "email": "mpg@demonlord.org",
+    "website": "https://demonlord.org",
     "about": "Started my career as both designer and developer, self-taught in both skills, and have a very good understanding of how both of these roles work independently as well as some opinions on how they ought to work together.",
     "location": {
       "city": "Chicago",
@@ -20,7 +20,7 @@
       },
       {
         "network": "Codepen",
-        "url": "https://www.codepen.io/michaelperrygoodman"
+        "url": "https://www.codepen.io/devilduck"
       }
     ]
   },

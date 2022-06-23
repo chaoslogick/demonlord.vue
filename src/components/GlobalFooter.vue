@@ -20,7 +20,7 @@
         quotes: quotes,
         social: [
           { network: 'github', url: '//github.com/hyperchaos' },
-          { network: 'codepen', url: '//codepen.io/michaelperrygoodman' },
+          { network: 'codepen', url: '//codepen.io/devilduck' },
           { network: 'linkedin', url: '//linkedin.com/in/michaelperrygoodman' },
           { network: 'email', url: 'mailto:mpg@demonlord.org' },
         ]
