@@ -11,30 +11,30 @@
 </template>
 
 <script>
-  import quotes from '../data/quotes.json';
+import quotes from '../data/quotes.json';
 
-  export default {
-    name: 'GlobalFooter',
-    data() {
-      return {
-        quotes: quotes,
-        social: [
-          { network: 'github', url: '//github.com/hyperchaos' },
-          { network: 'codepen', url: '//codepen.io/devilduck' },
-          { network: 'linkedin', url: '//linkedin.com/in/michaelperrygoodman' },
-          { network: 'email', url: 'mailto:mpg@demonlord.org' },
-        ]
-      }
+export default {
+  name: 'GlobalFooter',
+  data() {
+    return {
+      quotes: quotes,
+      social: [
+        { network: 'github', url: '//github.com/chaoslogick' },
+        { network: 'codepen', url: '//codepen.io/devilduck' },
+        { network: 'linkedin', url: '//linkedin.com/in/michaelperrygoodman' },
+        { network: 'email', url: 'mailto:mpg@demonlord.org' },
+      ]
+    }
+  },
+  methods: {
+    textChanger() {
+      let idx = Math.floor(Math.random() * this.quotes.length);
+      let rndQuote = this.quotes[idx].quote;
+      document.querySelector('.quote').innerHTML = rndQuote;
     },
-    methods: {
-      textChanger() {
-        let idx = Math.floor(Math.random() * this.quotes.length);
-        let rndQuote = this.quotes[idx].quote;
-        document.querySelector('.quote').innerHTML = rndQuote;
-      },
-    },
-    mounted() {
-      this.textChanger();
-    },
-  };
+  },
+  mounted() {
+    this.textChanger();
+  },
+};
 </script>
