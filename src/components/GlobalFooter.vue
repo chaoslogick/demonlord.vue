@@ -20,7 +20,7 @@ export default {
       quotes: quotes,
       social: [
         { network: 'github', url: '//github.com/chaoslogick' },
-        { network: 'codepen', url: '//codepen.io/devilduck' },
+        { network: 'codepen', url: '//codepen.io/chaoslogick' },
         { network: 'linkedin', url: '//linkedin.com/in/michaelperrygoodman' },
         { network: 'email', url: 'mailto:mpg@demonlord.org' },
       ]
