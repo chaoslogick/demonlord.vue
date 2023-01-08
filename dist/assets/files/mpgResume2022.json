@@ -49,12 +49,12 @@
       "website": "http://shift7digital.com",
       "startDate": "2021",
       "endDate": "Current",
-      "summary": "Build Salesforce Marketing Cloud landing pages and emails, build vanilla JS components, implement Adobe Analytics into multiple sites, build Salesforce Lightning Web Components",
+      "summary": "Primarily working with a team on a complete rebuild of a client eCommerce solution in Salesforce with Lightning Web Components. Additional work include building Salesforce Marketing Cloud landing pages and emails, building vanilla JS components, and implementing Adobe Analytics into multiple sites",
       "tags": [
         "front-end development",
-        "11ty",
-        "sass",
         "html5",
+        "scss",
+        "vanilla JS",
         "SF LWC",
         "SFMC SSJS",
         "AMPscript"

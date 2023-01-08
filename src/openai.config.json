@@ -1,0 +1,7 @@
+{
+  "model": "text-davinci-002",
+  "prompt": "Today is {{currentDay}}. The wordlist is {{wordlist}}. Generate headlines using these words:",
+  "maxTokens": 64,
+  "numCompletions": 1,
+  "stop": ""
+}

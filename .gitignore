@@ -2,6 +2,9 @@
 node_modules
 #/dist
 
+# openAI config
+#openai.config.json
+
 # local env files
 .env.local
 .env.*.local
