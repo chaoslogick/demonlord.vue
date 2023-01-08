@@ -12,6 +12,7 @@
   "dependencies": {
     "@types/delaunator": "^5.0.0",
     "core-js": "^3.8.3",
+    "delaunator": "^5.0.0",
     "lodash": "^4.17.21",
     "openai": "^3.1.0",
     "vue": "^3.2.13",
