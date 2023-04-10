@@ -1,4 +1,4 @@
-:=============================================================================:
+=============================================================================:
 ..axs$a.`$$$a. $$$$&a. .a$$$a.
     $$$ $$$ $$$ $$$ $$$ $$$ $$$       Michael Perry Goodman
     $$$ $$$ $$$ $$$ $$$ $$$  `$       michaelperrygoodman@gmail.com
@@ -7,7 +7,7 @@
     $$$ $$$ $$$ $$$     $$$ $$$       https://demonlord.org
     $$$ $$$ $$$ $$$     $$$ $$$
     $$$ $$$ $$$ $$$     '$$a$$s..
-    "' "$" -- m p g : 2 0 2 2 --
+    "' "$" -- m p g : 2 0 2 3 --
           `
 :=============================================================================:
 
@@ -28,12 +28,12 @@ and many others.
 
 My primary focus in most of these roles has been tasks like page templating,
 converting design comps into live pages with [insert web tech here], and
-application UI, however i've become a swiss army knife of sorts, with skills
+application UI, however I've become a swiss army knife of sorts, with skills
 ranging from logo design to site wire frames to HTML email development to
 single page apps.
 
 ---
-Shift7 Digital :: 06/2021  -- Current
+Shift7 Digital :: 06/2021  -- 04/2023
 Senior Front-End Developer
 
 Build Salesforce Marketing Cloud landing pages and emails, build vanilla

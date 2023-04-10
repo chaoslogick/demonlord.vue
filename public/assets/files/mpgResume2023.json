@@ -48,7 +48,7 @@
       "city": "Chicago, IL",
       "website": "http://shift7digital.com",
       "startDate": "2021",
-      "endDate": "Current",
+      "endDate": "2023",
       "summary": "Primarily working with a team on a complete rebuild of a client eCommerce solution in Salesforce with Lightning Web Components. Additional work include building Salesforce Marketing Cloud landing pages and emails, building vanilla JS components, and implementing Adobe Analytics into multiple sites",
       "tags": [
         "front-end development",
@@ -57,7 +57,8 @@
         "vanilla JS",
         "SF LWC",
         "SFMC SSJS",
-        "AMPscript"
+        "AMPscript",
+        "Adobe Analytics"
       ]
     },
     {
