@@ -4,12 +4,10 @@
   "private": true,
   "description": "Personal Vue website",
   "author": "Michael Perry Goodman <mpg@demonlord.org>",
+  "type": "module",
   "scripts": {
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "up": "vue-cli-service serve",
-    "vite": "vite",
-    "vite-build": "vite build"
+    "up": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "@apollo/client": "^3.7.12",
@@ -33,7 +31,6 @@
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@akryum/vue-cli-plugin-ssr": "~0.6.0",
     "@babel/core": "^7.12.16",
     "@vitejs/plugin-vue": "^4.2.1",
     "@vue/cli-plugin-babel": "~5.0.0",
@@ -61,12 +58,9 @@
   },
   "eslintConfig": {
     "root": true,
-    "env": {
-      "node": true
-    },
     "extends": [
-      "plugin:vue/vue3-essential",
-      "eslint:recommended"
+      "wesbos",
+      "plugin:vue/vue3-essential"
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"

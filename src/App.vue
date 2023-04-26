@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <global-header/>
+    <global-header />
     <section class="content" :class="componentName ? `${componentName}` : ``">
-      <router-view/>
-      <global-footer/>
+      <router-view />
+      <global-footer />
     </section>
   </div>
 </template>
 
 <script>
-import GlobalHeader from '@/components/GlobalHeader';
-import GlobalFooter from '@/components/GlobalFooter';
+import GlobalHeader from '@/components/GlobalHeader.vue';
+import GlobalFooter from '@/components/GlobalFooter.vue';
 
 export default {
   name: 'App',
@@ -21,7 +21,7 @@ export default {
   computed: {
     siteUrl() {
       const url = document.URL;
-      const urlParts = url.replace('http://','').replace('https://','').split(/[/?#]/);
+      const urlParts = url.replace('http://', '').replace('https://', '').split(/[/?#]/);
       return urlParts[0];
     },
     componentName() {
@@ -43,18 +43,12 @@ export default {
          '' - website by mpg ----
             - demonlord.org -----
       `);
-      console.log('// Initializing...');
     },
     randomColor() {
-      const colors = [ '#66ffcc', '#ff6666', '#9566ff', '#66ffff', '#ffff66' ];
+      const colors = ['#66ffcc', '#ff6666', '#9566ff', '#66ffff', '#ffff66'];
       const colorValue = colors;
       const randomColorValue = colorValue[Math.floor(Math.random() * colorValue.length)];
       document.body.style.backgroundColor = randomColorValue;
-    },
-    randomBorderColor() {
-      const colorValue = ['#66ffcc', '#ff6666', '#9566ff', '#ffffff', '#66ffff', '#ffff66'];
-      const randomColorValue = colorValue[Math.floor(Math.random() * colorValue.length)];
-      document.body.style.borderColor = randomColorValue;
     },
     pageTitle() {
       const currYear = new Date().getFullYear();
@@ -75,6 +69,6 @@ export default {
 </script>
 
 <style lang="scss">
-  // SCSS entry point
-  @import "assets/scss/app.scss";
+// SCSS entry point
+@import "assets/scss/app.scss";
 </style>

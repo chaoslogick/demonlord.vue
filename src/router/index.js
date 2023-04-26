@@ -1,10 +1,10 @@
 import { createWebHistory, createRouter } from 'vue-router';
 import MainView from '@/views/MainView.vue';
-import PageResume from '@/views/PageResume';
-import PageMusic from '@/views/PageMusic';
-import PageWarez from '@/views/PageWarez';
-import PageEtc from '@/views/PageEtc';
-import PageNotFound from '@/views/PageNotFound';
+import PageResume from '@/views/PageResume.vue';
+import PageMusic from '@/views/PageMusic.vue';
+import PageWarez from '@/views/PageWarez.vue';
+import PageEtc from '@/views/PageEtc.vue';
+import PageNotFound from '@/views/PageNotFound.vue';
 
 const routes = [
   {
@@ -44,7 +44,7 @@ const router = createRouter({
   history: createWebHistory(),
   linkActiveClass: 'active',
   root: '/',
-  base: process.env.BASE_URL,
+  base: import.meta.env.BASE_URL,
   routes
 })
 
