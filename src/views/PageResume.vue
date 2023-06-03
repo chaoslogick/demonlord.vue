@@ -37,9 +37,9 @@
         <p v-html="resume.basics.about"></p>
 
         <span class="eyebrow">Resume Downloads</span>
-        <a href="/assets/files/mpgResume2022.pdf" target="_blank">PDF</a> /
-        <a href="/assets/files/mpgResume2022.json" target="_blank">JSON</a> /
-        <a href="/assets/files/mpgResume2022.txt" target="_blank">TXT</a>
+        <a href="/assets/files/mpgResume2023.pdf" target="_blank">PDF</a> /
+        <a href="/assets/files/mpgResume2023.json" target="_blank">JSON</a> /
+        <a href="/assets/files/mpgResume2023.txt" target="_blank">TXT</a>
       </div>
     </div>
   </div>

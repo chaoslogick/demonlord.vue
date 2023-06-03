@@ -5,7 +5,7 @@ node_modules
 # openAI config
 #openai.config.json
 
-# local env files
+# env files
 .env
 .env.local
 .env.*.local
