@@ -13,6 +13,7 @@
     "@apollo/client": "^3.7.12",
     "@apollo/link-error": "^2.0.0-beta.3",
     "@stripe/stripe-js": "^1.52.1",
+    "@testing-library/jest-dom": "^5.16.5",
     "@types/delaunator": "^5.0.0",
     "@vue/apollo-composable": "^4.0.0-beta.4",
     "apollo-upload-client": "^17.0.0",
@@ -38,8 +39,6 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^8.39.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-config-wesbos": "^3.2.3",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-prettier": "^4.2.1",
@@ -59,13 +58,14 @@
   "eslintConfig": {
     "root": true,
     "extends": [
-      "wesbos",
       "plugin:vue/vue3-essential"
     ],
-    "parserOptions": {
-      "parser": "@babel/eslint-parser"
-    },
     "rules": {}
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "./jest.setup.js"
+    ]
   },
   "browserslist": [
     "> 1%",
