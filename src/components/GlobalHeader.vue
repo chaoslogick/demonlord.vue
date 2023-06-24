@@ -20,6 +20,7 @@
 <script>
 import navMenu from '@/components/NavMenu.vue';
 import Delaunator from 'delaunator';
+//import Hydra from 'hydra-synth';
 
 export default {
   name: 'GlobalHeader',
@@ -27,6 +28,10 @@ export default {
     'nav-menu': navMenu,
   },
   methods: {
+    hydra() {
+        const hydra = new Hydra({ detectAudio: false });
+        osc(4, 0.1, 1.2).out();
+    },
     delaunay() {
       // delaunay triangles
       function getRandomInt(min, max) {
@@ -36,8 +41,7 @@ export default {
       }
 
       const len = 130;
-      const randArr = Array.from({ length: len }, () => new Array(getRandomInt(24, window.innerWidth), getRandomInt(24, window.innerWidth)));
-      const points = randArr;
+      const points = Array.from({ length: len }, () => new Array(getRandomInt(24, window.innerWidth), getRandomInt(24, window.innerWidth)));
       const delaunay = Delaunator.from(points);
 
       function edgesOfTriangle(t) { return [3 * t, 3 * t + 1, 3 * t + 2]; }
@@ -91,24 +95,23 @@ export default {
       resize();
       window.onresize = resize;
     },
-    newQuote() {
-      const quotes = [
+    newHeadline() {
+      const headline = [
         'Placeholder text for a much better headline later',
       ];
-      let quoteValue = quotes;
-      let randomQuoteValue = quoteValue[Math.floor(Math.random() * quoteValue.length)];
-      document.getElementById('headline').innerHTML = randomQuoteValue;
+      let randomHeadlineValue = headline[Math.floor(Math.random() * headline.length)];
+      document.getElementById('headline').innerHTML = randomHeadlineValue;
     },
   },
   watch: {
     $route() {
       this.delaunay();
-      this.newQuote();
+      this.newHeadline();
     }
   },
   mounted() {
     this.delaunay();
-    this.newQuote();
+    this.newHeadline();
   }
 };
 </script>
